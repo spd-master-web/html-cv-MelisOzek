@@ -1,2 +1,2 @@
-# MyName CV 
+# MelisOzek CV 
 My CV in pure HTML. 
