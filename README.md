@@ -1,8 +1,8 @@
 # MelisOzek 
 
-Art director and brand consultant based between Milan and Italy specialized in brand consultancy, visual communication and digital direction strategies across lifestyle, arts & design. 
-
 <h4>Bio</h4>
+
+Art director and brand consultant based between Milan and Italy specialized in brand consultancy, visual communication and digital direction strategies across lifestyle, arts & design. 
 
 <br>
 
