@@ -2,7 +2,7 @@
 
 <h4>Bio</h4>
 
-Art director and brand consultant based between Milan and Italy specialized in brand consultancy, visual communication and digital direction strategies across lifestyle, arts & design. 
+Art director and brand consultant based between Istanbul and Milan specialized in brand consultancy, visual communication and digital direction strategies across lifestyle, arts & design. 
 
 <br>
 
@@ -100,8 +100,12 @@ Writing
 Software Skills
 
 Microsoft Office   
-Adobe Creative Cloud   
-Figma 
+Adobe Creative Cloud    
+Figma  
+Visual Studio Code  
+Brackets  
+Git 
+
 
 <br>
 <br>
