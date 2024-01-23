@@ -100,8 +100,12 @@ Writing
 Software Skills
 
 Microsoft Office   
-Adobe Creative Cloud   
-Figma 
+Adobe Creative Cloud    
+Figma  
+Visual Studio Code  
+Brackets  
+Git 
+
 
 <br>
 <br>
