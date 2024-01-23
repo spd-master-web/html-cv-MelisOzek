@@ -15,7 +15,7 @@ Art director and brand consultant based between Milan and Italy specialized in b
 Wrote, edited and published daily news, reports & interviews on Mixmag Turkey.  
 Helped curate artists and promoters based in Middle East.     
 
-Istanbul, Turkey. 2022
+Istanbul, Turkey. 2022-2023 
 
 <br>
 
@@ -24,9 +24,10 @@ Istanbul, Turkey. 2022
   Director Assistance 
 </h4>  
 
-Movie 1   
-Movie 2     
+The Field of Gray Dreams 
+Istanbul, Turkey - Milan, Italy. 2022
 
+Les Rideaux Invisibles ou Un Vendredi Gris      
 Istanbul, Turkey - Milan, Italy. 2021
 
 <br>
@@ -67,7 +68,7 @@ Milan, Italy. 2023-2024
 IED - Istituto Europeo di Design     
 BA, Bachelor of Arts. Product Design.   
 
-Milan, Italy. 2019-2020
+Milan, Italy. 2017-2019
 
 <br> 
 
@@ -82,13 +83,14 @@ Ankara, Turkey. 2007-2017
 
 Skills  
 
+Product Design  
+User Experience & User Interface Design  
 Design Thinking   
 Critical Thinking   
-Identity Design   
-Brand Strategies   
-Art Direction   
-Digital Art & Direction Strategies   
-UX / UI   
+Identity Design    
+Brand Strategies    
+Digital Art & Direction Strategies    
+Languages  
 Writing 
 
 <br>
@@ -106,8 +108,8 @@ Figma
 
 Languages  
 
-Turkish   
-English   
-French  
-Italian 
+Turkish (Native)   
+English (Fluent)  
+French  (Professional)  
+Italian (Beginner) 
 
